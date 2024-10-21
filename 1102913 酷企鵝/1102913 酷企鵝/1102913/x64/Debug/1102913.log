@@ -1,0 +1,38 @@
+﻿  1102913.cpp
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(18,16): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(18,13): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(19,20): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(19,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(20,22): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(20,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(21,18): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(21,13): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(25,22): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(25,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(26,22): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(26,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(27,22): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(27,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(28,18): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(28,13): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(32,20): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(32,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(33,22): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(33,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(37,20): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(37,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(38,20): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(38,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(39,22): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(39,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(40,22): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(40,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(44,22): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(44,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(45,22): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(45,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(106,25): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(125,40): warning C4305: '引數': 從 'int' 轉換為 'GLboolean'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(125,32): warning C4309: '引數': 轉換導致常數值遭截斷; 可能需要使用較大的類型
+C:\Users\Benson\Desktop\1102913\1102913\1102913\1102913.cpp(172,34): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  1102913.vcxproj -> C:\Users\Benson\Desktop\1102913\1102913\x64\Debug\1102913.exe
